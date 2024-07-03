@@ -1,0 +1,2 @@
+# NewPlaywrightFiles
+HSBC Framework files
